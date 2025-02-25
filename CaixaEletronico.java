@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//ARQUIVO .JAVA CRIADO COM LAÇO SIMPLES USANDO IF/ELSE
 public class CaixaEletronico {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
